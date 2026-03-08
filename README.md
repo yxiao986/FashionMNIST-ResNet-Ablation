@@ -39,3 +39,6 @@ execute:
 ```bash
 python trainer.py
 ```
+
+## References
+He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
